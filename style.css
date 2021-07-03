@@ -1,0 +1,61 @@
+.menu {
+    display:flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+body{
+    background-color: turquoise;
+}
+
+.grid{
+display: flex;
+flex-wrap: wrap;
+}
+
+
+.camel{
+    border-radius: 20px;
+    background-color: whitesmoke;
+    width: 310px;
+    font-family: fantasy;
+}
+
+.camaleons{
+    border-radius: 20px;
+    background-color:rgb(230, 30, 30);
+    width: 310px;
+    font-family: fantasy;
+}
+
+.piegon{
+    border-radius: 20px;
+    background-color:rgb(14, 108, 216);
+    width: 310px;
+    font-family: fantasy;
+}
+
+.teddyBear{
+    border-radius: 20px;
+    background-color: gold;
+    width: 310px;
+    font-family: fantasy;
+}
+
+.panda{
+    border-radius: 20px;
+    background-color: black;
+    width: 310px;
+    font-family: fantasy;
+}
+
+.cicada{
+    border-radius: 20px;
+    background-color: teal;
+    width: 310px;
+    font-family: fantasy;
+}
